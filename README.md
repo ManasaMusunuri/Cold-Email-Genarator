@@ -53,7 +53,7 @@ Cold Mail Generator is a Streamlit-based web application that automates the proc
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/your-repo/cold-mail-generator.git
+git clone https://github.com/your-repo/Cold-Email-Generator.git
 cd cold-mail-generator
 ```
 
