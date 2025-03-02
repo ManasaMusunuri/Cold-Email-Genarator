@@ -10,7 +10,7 @@ Cold Mail Generator is a Streamlit-based web application that automates the proc
 2. **Job Parsing**: Extracts job details like role, experience, skills, and description in JSON format.
 3. **Portfolio Integration**: Queries the portfolio database to retrieve relevant project links based on the skills required for the job.
 4. **Cold Email Generation**: Creates professional, personalized cold emails tailored to the job posting and portfolio.
-5. **Clean Text Utility**: Removes HTML, special characters, and extra whitespace from the scraped text.
+5. **Clean Text Utility**: Removes HTML, special characters, and extra whitespace from the scraped text
 
 ---
 
